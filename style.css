@@ -1,0 +1,18 @@
+myheader{
+    color:rgb(41, 98, 255);
+    font-size: 20px;
+    font-style: normal;
+}
+#title{
+    color: aliceblue;
+    font-size: 40px;
+}
+#gradient {
+    background-image: linear-gradient(black, rgb(0, 0, 189));
+    margin: 0px;
+    height: 600px;
+  }
+span.paragraph {
+    color: aliceblue;
+    font-size: 20px;
+}
